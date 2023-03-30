@@ -2,7 +2,7 @@
 name = "my-project"
 version = "0.1.0"
 description = ""
-authors = ""
+authors = []
 
 [tool.poetry.dependencies]
 python = "^3.8"
