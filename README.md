@@ -5,7 +5,7 @@ Calculates the efficient frontier for a 3 asset portfolio and distributes them a
 * Install Poetry by following the instructions on the official Poetry website: https://python-poetry.org/docs/#installation
 * Clone the project repository to your local machine using the following command:
 ```
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/bruleeshark/PortfolioOptimizerEfficientFrontier
 ```
 Replace your_username and your_project with your own information.
 
@@ -41,7 +41,7 @@ poetry run python main.py activate
 
 * Clone the project repository to your local machine using the following command:
 ```
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/bruleeshark/PortfolioOptimizerEfficientFrontier
 ```
 Replace your_username and your_project with your own information.
 
