@@ -13,8 +13,8 @@ matplotlib = "3.5.1"
 seaborn = "0.11.2"
 scipy = "1.7.3"
 web3 = "5.24.0"
-pyportfolioopt = "^1.4.1"
-pyfopt = "^1.4.0"
+pyportfolioopt = "^1.5.3"
+pyfopt = "^1.5.3"
 
 [tool.poetry.dev-dependencies]
 
