@@ -1,7 +1,7 @@
 # PortfolioOptimizerEfficientFrontier
 Calculates the efficient frontier for a 3 asset portfolio and distributes them accordingly to user's specified risk tolerance and expected returns.
 
-# Poetry instructions
+# using Poetry package manager
 * Install Poetry by following the instructions on the official Poetry website: https://python-poetry.org/docs/#installation
 * Clone the project repository to your local machine using the following command:
 ```
