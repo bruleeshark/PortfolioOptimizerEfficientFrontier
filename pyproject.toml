@@ -6,6 +6,7 @@ authors = []
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
+jsonrpcclient = "^3.7.3"
 backtrader = "1.9.76.123"
 pandas = "1.3.5"
 numpy = "^1.22.0"
